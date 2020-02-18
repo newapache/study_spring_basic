@@ -1,6 +1,6 @@
 
 
-### 섹션 1. SpringFramework vs Java Programming
+### 섹션 1. SpringFramework
 
 
 ### 섹션 2. Inversion of Control
